@@ -1,8 +1,8 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
+[<!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# painting with AI
 
 Final project for the Building AI course
 
@@ -77,3 +77,4 @@ How could your project grow and become something even more? What kind of skills,
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
+](https://github.com/mohanaahmed1981/my-new-project/blob/main/README.md)
